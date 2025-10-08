@@ -1,5 +1,5 @@
 ## Overview
-This project demonstrates data modeling in Apache Cassandra through the implementation of a music streaming application database. The focus is on query-driven design, where database tables are structured to optimize specific query patterns rather than following traditional normalization principles.
+This project is part of Data Engineering with AWS nanodegree at Udacity, it demonstrates data modeling in Apache Cassandra through the implementation of a music streaming application database. The focus is on query-driven design, where database tables are structured to optimize specific query patterns rather than following traditional normalization principles.
 
 ## Dataset
 The project utilizes music event data stored in CSV format (`event_datafile_new.csv`), containing user listening history with the following attributes:
